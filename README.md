@@ -1,4 +1,4 @@
-Hi, I'm Antionette, an <a href="https://linkedin.com/in/tonitoni796">IT Professional</a>☺</h1>
+Hi, I'm Antionette, an <a href="https://linkedin.com/in/tonitoni796">IT Professional
 
 <h2> Information Technology Projects:</h2>
 
